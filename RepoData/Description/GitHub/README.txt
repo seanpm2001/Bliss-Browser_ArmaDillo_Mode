@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🌐️🌳️🐢️⚙️💾️ The official source repository for Bliss Browser in ArmaDillo mode, creating a Dillo browser-like compatibility layer/environment within Bliss Browser. Check out Dillo browser: https://en.wikipedia.org/wiki/Dillo?&useskin=monobook
